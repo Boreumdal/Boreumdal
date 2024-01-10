@@ -9,7 +9,6 @@
 <img align="right" width="28%" src="https://api.daily.dev/devcards/1bbb8859329c4566ad942c35da28293f.png?r=xvd" width="400" alt="Melvin Arellano's Dev Card"/>
 
 - 🌱 I’m currently learning  ``Typescript`` and ``React``
-- 👨‍💻 All of my projects are available at [https://melvinarellano.vercel.app](https://melvinarellano.vercel.app)
 - 💬 Ask me about ``JavaScript``, ``React``, ``TailwindCSS``
 - 📫 How to reach me **lmelvin.arellano@gmail.com**
 - ⚡ Fun fact **I love learning something new**
