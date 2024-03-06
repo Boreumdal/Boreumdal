@@ -29,7 +29,7 @@
 <img align="right" width="38%" src="https://res.cloudinary.com/dvepyytcy/image/upload/v1692005676/%EA%B9%80%EB%AF%BC%EC%A3%BC_220826_citybreeze_web_%EB%B0%B0%EA%B2%BD4_qqhc00.jpg"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=Boreumdal&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Boreumdal&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boreumdal&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <hr />
@@ -43,3 +43,5 @@
 
 #### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Boreumdal&theme=dark&hide_border=true)
