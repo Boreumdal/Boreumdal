@@ -2,7 +2,7 @@
 <img align="center" width="100%" src="https://res.cloudinary.com/dvepyytcy/image/upload/v1692007389/Frame_11_pnot8e.png" width="400" alt="Melvin Arellano Cover"/>
 
 <h1 align="center">Hi 👋, I'm Melvin Arellano</h1>
-<h3 align="center">A passionate Web Developer from Philippines</h3>
+<h3 align="center">Web Developer</h3>
 
 <br />
 
